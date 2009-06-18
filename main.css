@@ -1,0 +1,14 @@
+html, body {
+    height: 98%;
+    width: 99%;
+}
+
+body {
+	text-align: center;
+	display: table;
+}
+
+div#content {
+    vertical-align: middle;
+    display: table-cell;
+}
